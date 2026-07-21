@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0547_000-J.yaml, hash: 'sha256:27afe8727c91cd9d7e7e7c721128a5c637f6a2f6297d1d0d84e71719adbae49f'}
+  - {seq: 0, filename: KR6q0547_000-J.yaml, hash: 'sha256:39da956ecc38ff4aea5a01289f3f363611551ba7193c73c3519529c7fd4dd896'}
   - {seq: 1, filename: KR6q0547_001-J.yaml, hash: 'sha256:662913b4879f7f1a4b87c4c8c616c0085fbb0c41dcf895b62d4d8caa91c04dc2'}
   - {seq: 2, filename: KR6q0547_002-J.yaml, hash: 'sha256:b9e030214cebbb4fd798769fa799759ab50e92736a6843a1eb365916dd0a23cd'}
   - {seq: 3, filename: KR6q0547_003-J.yaml, hash: 'sha256:ecab450bc333370306e9fdbcda4cda29428d3ae64900a80d78b3f7a989889d3f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0547_000-J.markers.yaml, hash: 'sha256:57161714eec267def5c5b85431d4fc4b2c5b1f6f115f64082a267f6521dc459d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0547_000-J.markers.yaml, hash: 'sha256:09f1e7f43f6a54702f786d75bf553ca571f9f260fa77d75a6e9657a739fb75a1'}
   - {seq: 1, role: markers, filename: assets/KR6q0547_001-J.markers.yaml, hash: 'sha256:d9a1c0a77ee179509bb14136046bad44eda8cbcf704ee4fb84545fced60ec4e5'}
   - {seq: 2, role: markers, filename: assets/KR6q0547_002-J.markers.yaml, hash: 'sha256:bb8fedc525a87614c57503303b3dab48720d7524a8eabf684a571f81de8a7868'}
   - {seq: 3, role: markers, filename: assets/KR6q0547_003-J.markers.yaml, hash: 'sha256:9a593da7b7e50ee571f02c5b5c14daed23ea84e3c0c866b6ced791a4372796d4'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-2
     span:
-    - front
+    - body
     - 5
     - 5
   label: 贊
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-3
     span:
-    - front
+    - body
     - 93
     - 93
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-4
     span:
-    - front
+    - body
     - 93
     - 93
   label: 德玉敘
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-5
     span:
-    - front
+    - body
     - 374
     - 374
   label: 徹生序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0547_J_000-mulu-6
     span:
-    - front
+    - body
     - 783
     - 783
   label: 目次
@@ -1579,4 +1579,4 @@ table_of_contents:
   label: 為顯缽道者火
   type: mulu
   level: 1
-hash: sha256:484fac351df699b18bf5aa37d4d8412c0251b89432b6bbc9709477e0431d0e74
+hash: sha256:0c555b947595ff6b9587615edc3b427d4dd2185cf09bfd134aa5133cae057ad1
